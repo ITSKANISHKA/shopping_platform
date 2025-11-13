@@ -1,5 +1,6 @@
 # FakeStore Shopping Frontend — Final Brown (No YouTube/Submit, Search in Header)
 
+shopping-platform-gilt.vercel.app--deployed model
 
 - Brown themed React + Vite + Tailwind project
 - No YouTube reference link
