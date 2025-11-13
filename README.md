@@ -1,6 +1,6 @@
 # FakeStore Shopping Frontend — Final Brown (No YouTube/Submit, Search in Header)
 
-## What this ZIP includes
+
 - Brown themed React + Vite + Tailwind project
 - No YouTube reference link
 - No Submit Project button
